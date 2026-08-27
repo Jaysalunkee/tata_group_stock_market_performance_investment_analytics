@@ -223,26 +223,6 @@ The project helps answer questions such as:
 
 ---
 
-## 📷 Dashboard Preview
-
-### Homepage
-
-![Homepage](image/Page_01_Homepage.png)
-
-### Executive Summary
-
-![Executive Summary](image/Page_02_Executive_Summary.png)
-
-### Stock Performance
-
-![Stock Performance](image/Page_03_Stock_Performance.png)
-
-### Market Trends & Technical Analysis
-
-![Market Trends](image/Page_04_Market_Trends_&_Technical_Analysis.png)
-
----
-
 ## 🚀 Skills Demonstrated
 
 * Data Cleaning
